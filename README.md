@@ -31,3 +31,4 @@ Data Structure
 Sales Data Table: Includes fields such as Date, Product, Quantity, Price, Total Sales.
 KPIs: Metrics such as Total Sales, Average Sales per Day, Customer Satisfaction.
 Data set used:
+conclusion
